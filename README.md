@@ -25,7 +25,7 @@ git commit -m "처음 커밋"
 
 git remote remove origin
 
-git remote add origin https://github.com/doeun10/Physical_AI_2026 
+git remote add origin https://github.com/ki543219/Physical_AI_2026 
 git branch -M main
 git push -u origin main --force
 

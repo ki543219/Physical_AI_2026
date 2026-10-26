@@ -26,7 +26,7 @@ Supabase 대시보드 → **SQL Editor** → `supabase/schema.sql` 내용 전체
 
 ## 3. 문서 업로드 (임베딩)
 1. `rag/ingest.html` 열기
-   - GitHub Pages에 올린 뒤라면 `https://doeun10.github.io/Physical_AI_2026/rag/ingest.html` → **기본 문서 자동 불러오기**
+   - GitHub Pages에 올린 뒤라면 `https://ki543219.github.io/Physical_AI_2026/rag/ingest.html` → **기본 문서 자동 불러오기**
    - 내 컴퓨터에서 파일을 더블클릭해 열었다면 → 파일 선택으로 `index.html`, `PRD/PRD.md`, `report/*.md` 직접 선택
 2. Supabase URL(`https://znhfsjzrbjbqpccrngzx.supabase.co`), service_role 키, Gemini 키 입력
 3. **임베딩 & 업로드** 클릭 → "업로드 완료" 메시지 확인
